@@ -1,3 +1,12 @@
 html, body {
-    background-image: url("inspo.jpg");
+    margin: 0;
+    overflow: hidden;
+}
+
+#background {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
 }
